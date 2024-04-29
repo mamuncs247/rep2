@@ -1,0 +1,18 @@
+.container{
+    margin: 0 auto;
+    width: 1000px;
+    border: 1px solid #ddd;
+    padding:5px;
+
+}
+.form{
+    background: #ddd;
+    width: 400px;
+    margin: 0 auto;
+    padding:5px;
+
+    border: 1px solid tomato;
+}
+.form input{
+    width: auto;
+}
